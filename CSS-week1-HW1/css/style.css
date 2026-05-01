@@ -5,22 +5,32 @@ body{
 
 header{
   background-color: #c9cfa9;
+  text-align: center;
+  color: green;
+}
+
+h1{
+  color: green;
 }
 
 nav{
-  background-color: #ef2929;
+  background-color: green;
 }
 
 main{
-  background-color:#e2a9f1
-  font-size:
+  background-color:#e2a9f1;
+  font-size 100%;
+}
+
+p{
+  font-family: Garamond, Georgia, Courier New;
 }
 
 li {
     display: inline-block;
-    width: 27%;
+    width: 32%;
     text-align: center;
-    height: 100px;
-    background: yellow;
-    line-height: 100px;
+    height: 50px;
+    background: beige;
+    line-height: 50px;
 }
