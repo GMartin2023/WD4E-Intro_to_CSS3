@@ -17,14 +17,23 @@ nav{
   background-color: green;
 }
 
+img{
+  display: inline-block;
+  width 200px;
+  text-align:center;
+}
+
 main{
-  background-color:#e2a9f1;
+  background-color:beige;
   font-size 100%;
 }
 
 p{
-  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
-  width: 100%
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 16pt;
+  width: 100%;
+  line-height: 30px;
+  text-align: center;
 }
 
 li {
@@ -34,4 +43,8 @@ li {
     height: 50px;
     background: beige;
     line-height: 50px;
+}
+
+footer{
+  background-color: yellow;
 }
