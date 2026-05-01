@@ -1,7 +1,19 @@
 body{
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 150%;
-  background-color: lightgray;
+}
+
+header{
+  background-color: #c9cfa9;
+}
+
+nav{
+  background-color: #ef2929;
+}
+
+main{
+  background-color:#e2a9f1
+  font-size:
 }
 
 li {
