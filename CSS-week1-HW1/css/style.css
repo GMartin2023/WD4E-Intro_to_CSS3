@@ -24,8 +24,8 @@ main{
 
 p{
   font-family: Garamond, Georgia, Courier New;
-  display: inline;
-  width: 50%
+  display: inline-block
+  width: 100%
 }
 
 li {
