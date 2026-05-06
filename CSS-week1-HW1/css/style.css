@@ -4,17 +4,17 @@ body{
 }
 
 header{
-  background-color: #c9cfa9;
+  background-color: #F5F5DC;
   text-align: center;
-  color: green;
+  color: #2C5F34;
 }
 
 h1{
-  color: green;
+  color: #2C5F34;
 }
 
 nav{
-  background-color: green;
+  background-color: #2C5F34;
 }
 
 img{
@@ -24,7 +24,7 @@ img{
 }
 
 main{
-  background-color:beige;
+  background-color:#F5F5DC;
   font-size: 100%;
   text-align: center
 }
@@ -42,7 +42,7 @@ li {
     width: 32%;
     text-align: center;
     height: 50px;
-    background-color: beige;
+    background-color: #F5F5DC;
     line-height: 50px;
 }
 
